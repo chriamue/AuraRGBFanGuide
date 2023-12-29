@@ -5,7 +5,7 @@ A short guide for seamlessly integrating LL120/LL140 RGB LED fans using Aura Syn
 
 Did you get the Corsair RGB Fans for christmas and wondered, that you have to install two small devices, which take an internal USB 2.0 header and two SATA power connectors? And did you wonder, why you have to use the Corsair Link software to control the fans? And did you wonder, why you can't use the ASUS Aura software to control the fans? Well, I did. And I found a solution.
 
-
+![Lights](lights.jpg)
 
 ## What you need
 
